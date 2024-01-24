@@ -1,0 +1,28 @@
+h1 {
+  text-align: left;
+}
+
+h2 {
+  text-align: right;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+}
+img:hover {
+  filter: saturate(10%);
+}
+.haha {
+  position: absolute;
+  right: 0%;
+  padding: 1%;
+  font-size: 29px;
+}
+.LUV {
+  width: 190px;
+  height: 140px;
+  size: 70%;
+  position: absolute;
+  right: 0%;
+}
